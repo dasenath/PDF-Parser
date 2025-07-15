@@ -16,10 +16,10 @@ This project implements a multi-method approach to PDF parsing that combines the
 
 ## Example output
 **Input PDF files**
-
+https://github.com/dasenath/PDF-Parser/tree/main/data/input
 
 **Parsed output**
-
+https://github.com/dasenath/PDF-Parser/tree/main/data/output
 
 ## Approach
 
